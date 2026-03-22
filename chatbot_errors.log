@@ -1,0 +1,149 @@
+[10-Mar-2026 16:50:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[10-Mar-2026 16:50:12 Europe/Berlin] PRIMARY_API setting: openrouter
+[10-Mar-2026 16:50:12 Europe/Berlin] Using OpenRouter as primary...
+[10-Mar-2026 16:50:14 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[10-Mar-2026 16:50:14 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[10-Mar-2026 16:50:23 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[10-Mar-2026 16:50:23 Europe/Berlin] PRIMARY_API setting: openrouter
+[10-Mar-2026 16:50:23 Europe/Berlin] Using OpenRouter as primary...
+[10-Mar-2026 16:50:26 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[10-Mar-2026 16:50:26 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[10-Mar-2026 16:50:59 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[10-Mar-2026 16:50:59 Europe/Berlin] PRIMARY_API setting: openrouter
+[10-Mar-2026 16:50:59 Europe/Berlin] Using OpenRouter as primary...
+[10-Mar-2026 16:51:01 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[10-Mar-2026 16:51:01 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[10-Mar-2026 16:51:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[10-Mar-2026 16:52:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[10-Mar-2026 16:52:13 Europe/Berlin] PRIMARY_API setting: openrouter
+[10-Mar-2026 16:52:13 Europe/Berlin] Using OpenRouter as primary...
+[10-Mar-2026 16:52:15 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[10-Mar-2026 16:52:15 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+
+[12-Mar-2026 10:23:59 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[12-Mar-2026 10:23:59 Europe/Berlin] PRIMARY_API setting: openrouter
+[12-Mar-2026 10:23:59 Europe/Berlin] Using OpenRouter as primary...
+[12-Mar-2026 10:24:02 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[12-Mar-2026 10:24:02 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[12-Mar-2026 10:24:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[12-Mar-2026 10:24:12 Europe/Berlin] PRIMARY_API setting: openrouter
+[12-Mar-2026 10:24:12 Europe/Berlin] Using OpenRouter as primary...
+[12-Mar-2026 10:24:17 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[12-Mar-2026 10:24:17 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[12-Mar-2026 10:27:26 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[12-Mar-2026 10:27:26 Europe/Berlin] PRIMARY_API setting: openrouter
+[12-Mar-2026 10:27:26 Europe/Berlin] Using OpenRouter as primary...
+[12-Mar-2026 10:27:28 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[12-Mar-2026 10:27:28 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[12-Mar-2026 10:30:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:36:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:36:12 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 09:36:12 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 09:36:16 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 09:36:16 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 09:36:29 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:36:29 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 09:36:29 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 09:36:32 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 09:36:32 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 09:36:41 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:36:41 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 09:36:41 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 09:36:46 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 09:36:46 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 09:37:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:37:22 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 09:37:22 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 09:37:29 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 09:37:29 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 09:42:25 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:42:25 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 09:42:25 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 09:42:27 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 09:42:27 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 09:42:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:42:37 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 09:42:37 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 09:42:40 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 09:42:40 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 09:42:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:42:52 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 09:42:52 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 09:42:53 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 09:42:53 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 09:43:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:43:10 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 09:43:10 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 09:43:14 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 09:43:14 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 09:43:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:43:33 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 09:43:33 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 09:43:37 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 09:43:37 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 09:43:49 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:43:49 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 09:43:49 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 09:43:52 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 09:43:52 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 09:44:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:44:01 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 09:44:01 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 09:44:03 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 09:44:03 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 09:44:24 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 09:44:24 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 09:44:24 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 09:44:26 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 09:44:26 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 10:22:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[19-Mar-2026 10:22:12 Europe/Berlin] PRIMARY_API setting: openrouter
+[19-Mar-2026 10:22:12 Europe/Berlin] Using OpenRouter as primary...
+[19-Mar-2026 10:22:16 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[19-Mar-2026 10:22:16 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[19-Mar-2026 10:22:34 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[20-Mar-2026 06:19:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[20-Mar-2026 06:19:09 Europe/Berlin] PRIMARY_API setting: openrouter
+[20-Mar-2026 06:19:09 Europe/Berlin] Using OpenRouter as primary...
+[20-Mar-2026 06:19:11 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[20-Mar-2026 06:19:11 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[20-Mar-2026 06:19:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[20-Mar-2026 06:19:35 Europe/Berlin] PRIMARY_API setting: openrouter
+[20-Mar-2026 06:19:35 Europe/Berlin] Using OpenRouter as primary...
+[20-Mar-2026 06:19:38 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[20-Mar-2026 06:19:38 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[20-Mar-2026 06:23:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[20-Mar-2026 06:23:12 Europe/Berlin] PRIMARY_API setting: openrouter
+[20-Mar-2026 06:23:12 Europe/Berlin] Using OpenRouter as primary...
+[20-Mar-2026 06:23:15 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[20-Mar-2026 06:23:15 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[20-Mar-2026 06:23:19 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[20-Mar-2026 06:23:19 Europe/Berlin] PRIMARY_API setting: openrouter
+[20-Mar-2026 06:23:19 Europe/Berlin] Using OpenRouter as primary...
+[20-Mar-2026 06:23:21 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[20-Mar-2026 06:23:21 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[20-Mar-2026 06:23:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[20-Mar-2026 06:23:47 Europe/Berlin] PRIMARY_API setting: openrouter
+[20-Mar-2026 06:23:47 Europe/Berlin] Using OpenRouter as primary...
+[20-Mar-2026 06:23:49 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[20-Mar-2026 06:23:49 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[20-Mar-2026 06:23:57 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[20-Mar-2026 06:23:57 Europe/Berlin] PRIMARY_API setting: openrouter
+[20-Mar-2026 06:23:57 Europe/Berlin] Using OpenRouter as primary...
+[20-Mar-2026 06:23:59 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[20-Mar-2026 06:23:59 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[20-Mar-2026 06:24:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[20-Mar-2026 06:24:14 Europe/Berlin] PRIMARY_API setting: openrouter
+[20-Mar-2026 06:24:14 Europe/Berlin] Using OpenRouter as primary...
+[20-Mar-2026 06:24:17 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[20-Mar-2026 06:24:17 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[20-Mar-2026 06:24:26 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[20-Mar-2026 06:24:26 Europe/Berlin] PRIMARY_API setting: openrouter
+[20-Mar-2026 06:24:26 Europe/Berlin] Using OpenRouter as primary...
+[20-Mar-2026 06:24:27 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[20-Mar-2026 06:24:27 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
+[22-Mar-2026 12:16:41 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\edtech-platform\config\database.php on line 36
+[22-Mar-2026 12:16:41 Europe/Berlin] PRIMARY_API setting: openrouter
+[22-Mar-2026 12:16:41 Europe/Berlin] Using OpenRouter as primary...
+[22-Mar-2026 12:16:42 Europe/Berlin] OPENROUTER [google/gemini-2.0-flash-001]: HTTP 200 | cURL error: None
+[22-Mar-2026 12:16:42 Europe/Berlin] OPENROUTER SUCCESS with model: google/gemini-2.0-flash-001
