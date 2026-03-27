@@ -32,7 +32,7 @@ Master ML from scratch with Python and real-world projects.
 Build autonomous AI agents using Large Language Models.
 - **Modules**: 20 modules, 60 lessons
 - **Hours**: 150 hours
-- **Topics**: GPT, Claude, Llama, prompt engineering, LangChain, RAG, vector databases, multi-agent systems
+- **Topics**: GPT, Claude, Llama, prompt engineering, LangChain, RAG, vector databases, multi-agent systems, GitHub Copilot
 - **Projects**: AI research agent, code assistant, document analyzer
 - **Outcome**: AI application developer
 
@@ -240,6 +240,41 @@ After completing any course:
 - ✅ Certificate of completion
 - ✅ Community connections
 - ✅ Interview preparation
+
+## 🤖 GitHub Copilot for Students
+
+Students verified through the **GitHub Student Developer Pack** receive **GitHub Copilot Free** at no cost. Here is a summary of what model access looks like across Copilot plans:
+
+| Feature | Copilot Free (Student Dev Pack) | Copilot Pro | Copilot Pro+ |
+|---|---|---|---|
+| Claude Sonnet (Anthropic) | ✅ | ✅ | ✅ |
+| GPT-4o (OpenAI) | ✅ | ✅ | ✅ |
+| Gemini (Google) | ✅ | ✅ | ✅ |
+| Claude Opus 4.6 (Anthropic) | ❌ | ❌ | ✅ |
+| Monthly usage limits | 2,000 completions / 50 chat messages | Unlimited | Unlimited |
+
+### Can students use Claude Opus 4.6 in GitHub Copilot?
+
+**Short answer: No, not with the GitHub Student Developer Pack alone.**
+
+Claude Opus 4.6 is a **premium model** available only on the **Copilot Pro+** plan. The GitHub Student Developer Pack provides **Copilot Free**, which gives access to capable models such as Claude Sonnet, GPT-4o, and Gemini — but does not include Opus-tier models.
+
+### How to access Claude Opus 4.6 in GitHub Copilot
+
+1. **Upgrade to Copilot Pro+** — available as a paid subscription. Students can check if GitHub offers a discounted or free Pro+ tier as part of any updated Student Pack benefits.
+2. **Use the Anthropic API directly** — students can sign up for [Anthropic API access](https://www.anthropic.com/) and integrate Claude Opus into their own projects, which is covered in **Course 4: Agentic AI & LLM Development**.
+3. **Check for updated Student Pack benefits** — GitHub periodically expands the benefits included in the Student Developer Pack. Visit [education.github.com](https://education.github.com/pack) for the latest offers.
+
+### Getting Started with GitHub Copilot (Student Dev Pack)
+
+1. Apply for the [GitHub Student Developer Pack](https://education.github.com/pack) with your school email.
+2. Once verified, enable Copilot Free in your [GitHub settings](https://github.com/settings/copilot).
+3. Install the GitHub Copilot extension in VS Code, JetBrains IDE, or another supported editor.
+4. Switch between available models (Claude Sonnet, GPT-4o, Gemini) directly in the Copilot chat panel.
+
+> 💡 **Tip:** For hands-on practice integrating Claude and other LLMs into your own applications, enroll in **Course 4: Agentic AI & LLM Development** available on this platform.
+
+---
 
 ## 🤝 Contributing
 
