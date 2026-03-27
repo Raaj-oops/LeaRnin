@@ -4,36 +4,16 @@
  * Run once: php cybersecurity_seed.php
  * Inserts the complete 20-month cybersecurity curriculum.
  */
-require_once __DIR__ . '/config/database.php';
+require_once __DIR__ . '/database.php';
 
 // ─── Guard: skip if already seeded ───────────────────────────────────────────
-$check = $pdo->query("SELECT id FROM courses WHERE title = 'Cybersecurity Fundamentals' LIMIT 1")->fetch();
+$stmt = $pdo->query("SELECT id FROM courses WHERE title = 'Cybersecurity Fundamentals' LIMIT 1");
+$check = $stmt ? $stmt->fetch() : false;
+$check = $stmt ? $stmt->fetch() : false;
 if ($check) {
     echo "✅  Cybersecurity course already exists (id={$check['id']}). Seeder skipped.\n";
     exit;
 }
-
-$pdo->beginTransaction();
-
-try {
-
-// ══════════════════════════════════════════════════════════════════════════════
-// COURSE
-// ══════════════════════════════════════════════════════════════════════════════
-$pdo->exec("
-INSERT INTO courses (title, description, category, thumbnail, difficulty_level, estimated_hours, created_by, is_published)
-VALUES (
-  'Cybersecurity Fundamentals',
-  'A complete 20-month, zero-to-job-ready cybersecurity curriculum covering offensive security, web hacking, cloud security, AI/LLM threats, blue team operations and detection engineering — 100% free resources, no paywall.',
-  'Cybersecurity',
-  'cyber-course.jpg',
-  'beginner',
-  1400,
-  1,
-  1
-)
-");
-$courseId = $pdo->lastInsertId();
 
 // ══════════════════════════════════════════════════════════════════════════════
 // HELPER
@@ -75,6 +55,29 @@ function insertExtra(PDO $pdo, int $courseId, string $title, string $type, strin
     $s = $pdo->prepare("INSERT INTO extra_resources (course_id, title, resource_type, url, description, tags) VALUES (?,?,?,?,?,?)");
     $s->execute([$courseId, $title, $type, $url, $desc, $tags]);
 }
+
+$pdo->beginTransaction();
+
+try {
+
+// ══════════════════════════════════════════════════════════════════════════════
+// COURSE
+// ══════════════════════════════════════════════════════════════════════════════
+$pdo->exec("
+INSERT INTO courses (title, description, category, thumbnail, difficulty_level, estimated_hours, created_by, is_published)
+VALUES (
+  'Cybersecurity Fundamentals',
+  'A complete 20-month, zero-to-job-ready cybersecurity curriculum covering offensive security, web hacking, cloud security, AI/LLM threats, blue team operations and detection engineering — 100% free resources, no paywall.',
+  'Cybersecurity',
+  'cyber-course.jpg',
+  'beginner',
+  1400,
+  1,
+  1
+)
+");
+$courseId = $pdo->lastInsertId();
+
 
 // ══════════════════════════════════════════════════════════════════════════════
 // PHASE 1 — FOUNDATIONS
