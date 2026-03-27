@@ -9,7 +9,6 @@ require_once __DIR__ . '/database.php';
 // ─── Guard: skip if already seeded ───────────────────────────────────────────
 $stmt = $pdo->query("SELECT id FROM courses WHERE title = 'Cybersecurity Fundamentals' LIMIT 1");
 $check = $stmt ? $stmt->fetch() : false;
-$check = $stmt ? $stmt->fetch() : false;
 if ($check) {
     echo "✅  Cybersecurity course already exists (id={$check['id']}). Seeder skipped.\n";
     exit;
@@ -181,6 +180,8 @@ $l = insertLesson($pdo, $m, [
 <table style="width:100%;border-collapse:collapse;margin:1rem 0">
 <tr style="background:#f1f5f9"><th style="padding:8px;text-align:left;border:1px solid #e2e8f0">Layer</th><th style="padding:8px;text-align:left;border:1px solid #e2e8f0">Name</th><th style="padding:8px;text-align:left;border:1px solid #e2e8f0">Protocol Examples</th><th style="padding:8px;text-align:left;border:1px solid #e2e8f0">Hacker Interest</th></tr>
 <tr><td style="padding:8px;border:1px solid #e2e8f0">7</td><td style="padding:8px;border:1px solid #e2e8f0">Application</td><td style="padding:8px;border:1px solid #e2e8f0">HTTP, DNS, SMTP</td><td style="padding:8px;border:1px solid #e2e8f0">SQLi, XSS, SSRF</td></tr>
+<tr><td style="padding:8px;border:1px solid #e2e8f0">6</td><td style="padding:8px;border:1px solid #e2e8f0">Presentation</td><td style="padding:8px;border:1px solid #e2e8f0">SSL/TLS, MIME, SSH</td><td style="padding:8px;border:1px solid #e2e8f0">SSL stripping, MITM</td></tr>
+<tr><td style="padding:8px;border:1px solid #e2e8f0">5</td><td style="padding:8px;border:1px solid #e2e8f0">Session</td><td style="padding:8px;border:1px solid #e2e8f0">NetBIOS, RPC</td><td style="padding:8px;border:1px solid #e2e8f0">Session hijacking</td></tr>
 <tr><td style="padding:8px;border:1px solid #e2e8f0">4</td><td style="padding:8px;border:1px solid #e2e8f0">Transport</td><td style="padding:8px;border:1px solid #e2e8f0">TCP, UDP</td><td style="padding:8px;border:1px solid #e2e8f0">Port scanning, SYN flood</td></tr>
 <tr><td style="padding:8px;border:1px solid #e2e8f0">3</td><td style="padding:8px;border:1px solid #e2e8f0">Network</td><td style="padding:8px;border:1px solid #e2e8f0">IP, ICMP</td><td style="padding:8px;border:1px solid #e2e8f0">Spoofing, routing attacks</td></tr>
 <tr><td style="padding:8px;border:1px solid #e2e8f0">2</td><td style="padding:8px;border:1px solid #e2e8f0">Data Link</td><td style="padding:8px;border:1px solid #e2e8f0">ARP, Ethernet</td><td style="padding:8px;border:1px solid #e2e8f0">ARP poisoning, MAC spoofing</td></tr>
