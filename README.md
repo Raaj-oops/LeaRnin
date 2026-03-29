@@ -232,6 +232,11 @@ Each course includes:
 - **Books (free/PDF)**
 - **Podcasts**
 
+### 🔗 Notable External Resources
+
+- **freeCodeCamp** — [github.com/freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+  Free, open-source coding curriculum with thousands of exercises and projects covering web development, data science, and more.
+
 ## 🎯 Outcomes
 
 After completing any course:
